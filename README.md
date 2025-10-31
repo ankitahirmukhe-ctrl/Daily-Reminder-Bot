@@ -39,16 +39,16 @@ helping them stay organized and never miss important tasks.
 
 ## 📸 Workflow Screenshots  
 
-**⿡ WorqHat Workflow**  
+**1) WorqHat Workflow**  
 ![Workflow Screenshot](./workflow_screenshot.jpg)
 
-**⿢ User Interface (UI)**  
+**2) User Interface (UI)**  
 ![UI Screenshot](./ui_screenshot.jpg)
 
-**⿣ Test Flow – Workflow Execution**  
+**3) Test Flow – Workflow Execution**  
 ![Test Flow Screenshot](./testflow_screenshot.jpg)
 
-**⿤ Email Notification – Daily Reminder Received**  
+**4) Email Notification – Daily Reminder Received**  
 ![Email Screenshot](./email_screenshot.jpg)
 
 ---
