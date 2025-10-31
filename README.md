@@ -37,6 +37,14 @@ helping them stay organized and never miss important tasks.
 
 ---
 
+## 🌈 How It Works  
+1. User opens the web page and fills in their email and message.  
+2. The data is sent to the **WorqHat workflow endpoint**.  
+3. WorqHat automation triggers an **email reminder** at the set time daily.  
+4. User receives an instant confirmation on screen and later the daily reminder email.
+
+---
+
 ## 📸 Workflow Screenshots  
 
 **1) WorqHat Workflow**  
@@ -53,11 +61,11 @@ helping them stay organized and never miss important tasks.
 
 ---
 
-## 🌈 How It Works  
-1. User opens the web page and fills in their email and message.  
-2. The data is sent to the **WorqHat workflow endpoint**.  
-3. WorqHat automation triggers an **email reminder** at the set time daily.  
-4. User receives an instant confirmation on screen and later the daily reminder email.
+## 🎥 Demo Video
+
+Here’s a short demo of our Daily Reminder Bot workflow in action:
+
+[🎬 Click here to view the demo video](./demovideo.mp4)
 
 ---
 
