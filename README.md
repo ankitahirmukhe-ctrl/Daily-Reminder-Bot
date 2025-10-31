@@ -1,4 +1,5 @@
 # Daily Reminder Bot  
+### 🕒 An automated email reminder bot built with WorkHat to help users stay organized every day.
 
 ### 👩‍💻 Author / Team  
 **Team Name:** SheBuilds  
@@ -6,8 +7,7 @@
 ---
 
 ## 🧩 Problem Statement  
-Many individuals struggle to maintain daily productivity due to missed reminders and lack of motivation.  
-Existing solutions often require manual setup, complicated integrations, or constant app usage.
+Many individuals struggle to maintain consistency and productivity due to missed reminders or lack of motivation. Existing solutions are often complex, requiring manual setup, app installations, or multiple integrations.
 
 ---
 
