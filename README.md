@@ -73,6 +73,16 @@ helping them stay organized and never miss important tasks.
 
 ---
 
+## 🗂 Project Files
+
+- .env.example  
+- index.html  
+- server.js  
+- package.json  
+- package-lock.json
+
+---
+
 ## 🧠 Future Enhancements  
 - Add multiple reminder scheduling options.  
 - Integrate with calendar APIs for smarter reminders.  
