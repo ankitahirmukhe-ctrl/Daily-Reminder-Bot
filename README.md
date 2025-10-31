@@ -63,9 +63,13 @@ helping them stay organized and never miss important tasks.
 
 ## 🎥 Demo Video
 
-Here’s a short demo of our Daily Reminder Bot workflow in action:
-
-[🎬 Click here to view the demo video](./demovideo.mp4)
+<p align="center">
+  <a href="https://youtu.be/k4kBePn33Ac?si=LARrLWbgmPk2anj8" target="_blank">
+    <img src="https://img.icons8.com/?size=512&id=19318&format=png" alt="Watch Demo Video" width="150">
+  </a>
+  <br>
+  <em>🎬 Click the icon above to watch our project demo video on YouTube</em>
+</p>
 
 ---
 
