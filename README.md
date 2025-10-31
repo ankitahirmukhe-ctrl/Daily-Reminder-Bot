@@ -38,10 +38,18 @@ helping them stay organized and never miss important tasks.
 ---
 
 ## 📸 Workflow Screenshots  
-(Add screenshots of your WorqHat workflow here)  
-1. Workflow overview  
-2. Email trigger configuration  
-3. Workflow success status  
+
+**WorqHat Workflow**
+![Workflow Screenshot](./workflow_screenshot.jpg)
+
+** User Interface (UI)**
+![UI Screenshot](./ui_screenshot.jpg)
+
+**Test Flow – Workflow Execution**
+![Test Flow Screenshot](./testflow_screenshot.jpg)
+
+**Email Notification – Daily Reminder Received**
+![Email Screenshot](./email_screenshot.jpg)  
 
 ---
 
